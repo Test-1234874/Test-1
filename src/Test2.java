@@ -22,8 +22,6 @@ public class Test2 {
         t.test(2);
         t.test(3);
         System.out.println("Hello");
-        System.out.println("World 1");
-
         t.getTop();
     }
 
