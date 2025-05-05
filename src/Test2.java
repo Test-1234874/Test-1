@@ -21,7 +21,7 @@ public class Test2 {
         t.test(1);
         t.test(2);
         t.test(3);
-        System.out.println("Hello1");
+        System.out.println("Hello2");
         t.getTop();
     }
 
